@@ -1,4 +1,4 @@
-# teamMJJER
+
 ## Topic: Stochastic Gradient Descent
 
 ### I. Overall Learning Objectives:
